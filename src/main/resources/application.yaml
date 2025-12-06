@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  mongodb:
+    uri: mongodb://localhost:27017/rideshare
+
+jwt:
+  secret: KJH87yhjkasd7890NMBUYTREWQZXCVBNMGFDSA1234567=
+  expiration: 86400000
