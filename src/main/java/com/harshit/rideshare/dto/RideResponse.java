@@ -15,4 +15,8 @@ public class RideResponse {
 
     private String status;
     private String createdAt;
+
+    private String driverUsername;
+    private Double fare;
+    private Double distance;
 }

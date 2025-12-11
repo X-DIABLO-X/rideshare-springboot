@@ -22,4 +22,7 @@ public class Ride {
     private String dropLocation;
     private String status;
     private Date createdAt;
+    private String driverUsername;
+    private Double fare;
+    private Double distance;
 }

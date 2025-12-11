@@ -6,7 +6,7 @@ import com.harshit.rideshare.dto.RegisterRequest;
 import com.harshit.rideshare.exception.BadRequestException;
 import com.harshit.rideshare.model.User;
 import com.harshit.rideshare.repository.UserRepository;
-import com.harshit.rideshare.config.JwtUtil;
+import com.harshit.rideshare.util.JwtUtil;
 import com.harshit.rideshare.util.PasswordEncoderUtil;
 import org.springframework.stereotype.Service;
 

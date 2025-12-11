@@ -1,4 +1,4 @@
-package com.harshit.rideshare.config;
+package com.harshit.rideshare.util;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

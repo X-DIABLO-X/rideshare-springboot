@@ -1,5 +1,6 @@
 package com.harshit.rideshare.config;
 
+import com.harshit.rideshare.util.JwtUtil;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
